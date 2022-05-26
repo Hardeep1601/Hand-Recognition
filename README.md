@@ -7,8 +7,8 @@
 
 How to use
 ```    
-git clone https://github.com/aakashjhawar/Hand-Gesture-Recognition.git
-cd Hand-Gesture-Recognition
+git clone https://github.com/Hardeep1601/Hand-Recognition.git
+cd Hand-Recognition
 ```
 Run the Finger_count.ipynb Jupyter Notebook
  
