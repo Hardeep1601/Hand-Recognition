@@ -239,7 +239,7 @@ if __name__ == "__main__":
                 # count the number of fingers
                 fingers = count(thresholded, segmented)
 
-                cv2.putText(clone, "This is " + str(fingers), (70, 45), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
+                cv2.putText(clone, "Number of Fingers: " + str(fingers), (70, 45), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
 
                 # print("Test hand code")
