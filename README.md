@@ -10,6 +10,9 @@ How to use
 git clone https://github.com/Hardeep1601/Hand-Recognition.git
 cd Hand-Recognition
 ```
+
+https://github.com/aakashjhawar/hand-gesture-recognition 
+
 Run the Finger_count.ipynb Jupyter Notebook
  
 ## Prerequisites
